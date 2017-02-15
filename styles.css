@@ -4,3 +4,10 @@ body {
   font-family: Helvertica, Arial, sans-serif;
   font-size: 16px;
 }
+console.log("connected");
+var age = 22;
+if (age < 21) {
+  console.log("No, I cannot serve you a beer");
+} else {
+  console.log("Yes, I can serve you a beer")
+}

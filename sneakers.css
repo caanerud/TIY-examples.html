@@ -1,9 +1,114 @@
 body {
-  background: #ff4500;
+  background: black;
   color: black;
   font-family: Helvertica, Arial, sans-serif;
   font-size: 16px;
 }
 a{
   margin-top: 20px;
+}
+
+
+.main_header {
+  height:100px;
+  background-color: white;
+}
+.logo {
+  width:100px;
+  height:49px;
+}
+.mainNav {
+  float:left;
+  list-style:none;
+}
+.mainNav li {
+  display:inline;
+}
+
+.contactNav {
+  float:right;
+  list-style:none;
+}
+.contactNav li {
+  display:inline;
+}
+
+.main_body {
+  background-color: orange;
+}
+.quick {
+  text-align: center;
+}
+.springSummer {
+  text-align: center;
+}
+.dashes {
+  text-align: center;
+}
+
+.container {
+  float:right;
+  position: relative;
+  display:inline;
+  text-align: center;
+}
+.quickDescription {
+  text-align: center;
+}
+.shoe1 {
+  width:600;
+  height:300;
+  float:left;
+}
+
+.main_footer {
+  height:100px;
+  background-color: blue;
+
+}
+.product_body {
+  color:#bb22bb;
+  padding:14px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #feebef;
+}
+.product_details {
+  color:#bb22bb;
+  padding:14px;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #feebef;
+}
+
+.product_recommended {
+  background-color: cyan;
+}
+
+.recommended_title {
+  color:#bb22bb;
+  padding:14px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #feebef;
+}
+.recommended_products {
+  color:#bb22bb;
+  padding:14px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #feebef;
+}
+
+.main_footer {
+  color:#bb22bb;
+  padding:14px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #feebef;
 }

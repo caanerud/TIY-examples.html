@@ -1,0 +1,22 @@
+header {
+  background-color: #343e3d;
+  color: #cfffe4;
+  border-bottom:solid 5px #617466;
+  width:625px;
+  text-align: center;
+  font-family:arial;
+
+
+  body font: #28261c;
+}
+h1 {
+font-weight: 200
+margin-top:5%;
+padding-top:5%;
+letter-spacing: 2px;
+}
+
+section {
+  margin-left:1%auto;
+  width:50%;
+}
